@@ -7,7 +7,7 @@
         prism:ViewModelLocator.AutoWireViewModel="True"
         xmlns:local="clr-namespace:PlanChecker2.Views"
         mc:Ignorable="d"
-        Title="Plan Checker" Height="500" Width="500" Icon="../Resources/esapix.png">
+        Title="Plan Checker" Height="500" Width="700" Icon="../Resources/esapix.png">
     <Grid>
         <DockPanel>
             <TextBlock Text="Constraints"  DockPanel.Dock="Top" 
